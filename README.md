@@ -1,5 +1,6 @@
 # template
 just an start menu template for winlator
+
 u can use this for your own start menu
 
 # instalation
